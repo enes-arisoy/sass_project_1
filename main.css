@@ -362,6 +362,7 @@ textarea {
   display: flex;
   align-items: center;
   padding: 10px;
+  white-space: nowrap;
 }
 .Header-logo {
   margin-right: 16px;
